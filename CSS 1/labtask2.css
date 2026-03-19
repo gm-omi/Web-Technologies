@@ -1,0 +1,40 @@
+body {
+  background-color:aqua;   
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: darkred;
+}
+
+h4 {
+  color: #333333;
+}
+p {
+  color:green;   
+}
+
+
+table {
+  background-color: lightcoral;
+}
+.btn1 {
+  
+
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: absolute;
+  z-index: 1;
+  
+}
+p {
+  font-weight: bold;
+  font-style: italic;
+}
